@@ -1,0 +1,100 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "userid": "syed@gmail.com",
+      "password": "77785522@"
+    },
+    {
+      "userid": "quazi",
+      "password": "hdhddhg",
+      "id": 2
+    },
+    {
+      "userid": "wahab@gmail.com",
+      "password": "1233554",
+      "id": 3
+    },
+    {
+      "userid": "quazi@gmail.com",
+      "password": "kkdkdkdk",
+      "id": 4
+    },
+    {
+      "userid": "wahab@gmail.com",
+      "password": "554557",
+      "id": 5
+    },
+    {
+      "userid": "zain@gmail.com",
+      "password": "7778888",
+      "id": 6
+    },
+    {
+      "userid": "syed@gmail",
+      "password": ",akndk",
+      "id": 7
+    },
+    {
+      "userid": "syed@gmail",
+      "password": "jsdbh",
+      "id": 8
+    },
+    {
+      "userid": "",
+      "password": "",
+      "id": 9
+    },
+    {
+      "userid": "syed@gmail.com",
+      "password": "syed456",
+      "id": 10
+    },
+    {
+      "userid": "syed@gmail.com",
+      "password": "12345hg",
+      "id": 11
+    },
+    {
+      "userid": "quazi@gmail.com",
+      "password": "1233455",
+      "id": 12
+    },
+    {
+      "userid": "syed@gmail",
+      "password": "12545",
+      "id": 13
+    }
+  ],
+  "contact": [
+    {
+      "name": "Syed Wahabuddin",
+      "email": "sadcompiler@gmail.com",
+      "subject": "ggg",
+      "message": "kidr hai bhai",
+      "id": 9
+    }
+  ],
+  "data": [
+    {
+      "name": "ubed quazi",
+      "email": "ubed@gmail.com",
+      "subject": "for knoweledge",
+      "message": "hi syed",
+      "id": 5
+    },
+    {
+      "ssc": "",
+      "school": "",
+      "hsc": "",
+      "college": "",
+      "degree": "",
+      "dcollege": "",
+      "duniversity": "",
+      "mdegree": "",
+      "mdcollege": "",
+      "mduniversity": "",
+      "id": 6
+    }
+  ]
+}
